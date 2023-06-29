@@ -1,12 +1,14 @@
-<h1>Hi, I'm Franck! </h1>
+<h1>Hi, I'm Franck, your Cyber Security Specialist. Welcome to my Showroom! </h1>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 IT/Cyber Security Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/skywalker2036/Franckcybertest/LABURL)
+- [Setting up a Honeypot in Azure]()
+- [Nessus Vulnerability Management Setup]()
 - [Hello World](https://github.com/skywalker2036/Franckcybertest)
 
 
-<h2> Certifications </h2>
+<h2> 📃Certifications </h2>
 
 - [CompTIA Cybersecurity Analyst, CySA+](URL)
 - [Cisco Certified Entry Network Technician, CCENT]()
