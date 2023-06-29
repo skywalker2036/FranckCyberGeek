@@ -9,6 +9,8 @@
 <h2> Certifications </h2>
 
 - [CompTIA Cybersecurity Analyst, CySA+](URL)
+- [Cisco Certified Entry Network Technician, CCENT]()
+- [CompTIA A+]()
 
 
 
