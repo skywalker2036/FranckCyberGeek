@@ -19,7 +19,7 @@
 
 <h2> 💻 Independent Courses Completion </h2>
 
--[Qualys: Vulnerability Management Foundation]()
+- [Qualys: Vulnerability Management Foundation]()
 
 
 
